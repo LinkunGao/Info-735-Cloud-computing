@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-17T13:46:58.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="HDwJ2dr1XnUP1R9ZsjjF" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-17T13:52:15.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="rTbIqXnDGWtvJGGqBefH" version="15.2.9" type="github">
   <diagram id="yq6AKoY6Dg_BBQN1_GT5" name="Page-1">
     <mxGraphModel dx="1351" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -65,10 +65,10 @@
           <mxGeometry x="625" y="620" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="It4V4VKw1bJQXfxjGY4P-29" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="204" y="291" width="47" height="42" as="geometry" />
+          <mxGeometry x="204" y="331" width="47" height="42" as="geometry" />
         </mxCell>
         <mxCell id="It4V4VKw1bJQXfxjGY4P-30" value="Lambda" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="191.75" y="333" width="60" height="20" as="geometry" />
+          <mxGeometry x="197.5" y="380.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="It4V4VKw1bJQXfxjGY4P-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="40" height="32" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="134.75" y="190" width="47.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="It4V4VKw1bJQXfxjGY4P-58" value="Amazon SageMaker" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sagemaker;" vertex="1" parent="1">
-          <mxGeometry x="203" y="210" width="48" height="75" as="geometry" />
+          <mxGeometry x="194.5" y="222" width="66" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
